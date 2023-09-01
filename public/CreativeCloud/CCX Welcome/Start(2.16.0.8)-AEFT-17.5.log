@@ -1,0 +1,61 @@
+
+
+
+
+
+
+Mon Feb 20 2023 03:05:58 GMT+0530 (India Standard Time)  :: IMS checking for redirection file S3Config.xml on: C:Program FilesAdobeAdobe Creative CloudACCCreative Cloud.exe....C3Config.xml-
+Mon Feb 20 2023 03:05:58 GMT+0530 (India Standard Time) CCXSTART - 2.16.0.8 :: @Mon Feb 20 2023 03:05:58 GMT+0530 (India Standard Time) Init Started: -
+Mon Feb 20 2023 03:05:58 GMT+0530 (India Standard Time) CCXSTART :: Timeline measure: scripts loaded                : 111.80ms-
+Mon Feb 20 2023 03:05:58 GMT+0530 (India Standard Time) CCXSTART :: Start to launch CCX Process-
+Mon Feb 20 2023 03:05:58 GMT+0530 (India Standard Time) CCXSTART :: Timeline measure: JS Init                       : 130.28ms-
+Mon Feb 20 2023 03:05:58 GMT+0530 (India Standard Time) CCXSTART :: Timeline measure: Dependencies                  : 158.85ms-
+Mon Feb 20 2023 03:05:58 GMT+0530 (India Standard Time) CCXSTART :: Timeline measure: host adapter                  : 237.93ms-
+Mon Feb 20 2023 03:05:58 GMT+0530 (India Standard Time) CCXSTART :: Timeline measure: document listeners            : 238.08ms-
+Mon Feb 20 2023 03:05:58 GMT+0530 (India Standard Time) CCXSTART :: Timeline: app.data Start                : 238.28ms-
+Mon Feb 20 2023 03:05:58 GMT+0530 (India Standard Time) CCXSTART :: Timeline: app.data Start                : 239.68ms-
+Mon Feb 20 2023 03:05:58 GMT+0530 (India Standard Time) CCXSTART :: Timeline measure: app.data                      : 346.96ms-
+Mon Feb 20 2023 03:05:59 GMT+0530 (India Standard Time) CCXSTART :: Timeline: total load time Start         : 1339.76ms-
+Mon Feb 20 2023 03:05:59 GMT+0530 (India Standard Time) CCXSTART :: Timeline: JS code after host data Start : 1339.98ms-
+Mon Feb 20 2023 03:05:59 GMT+0530 (India Standard Time) CCXSTART :: New NGL Profile {-
+  "AppProfile": {},-
+  "LegacyProfile": {},-
+  "AdditionalLegacyProfiles": {},-
+  "RelationshipProfile": {},-
+  "UserProfile": {},-
+  "isNGL": true-
+}-
+Mon Feb 20 2023 03:05:59 GMT+0530 (India Standard Time) CCXSTART :: Checking for logged in user for high latency network-
+Mon Feb 20 2023 03:05:59 GMT+0530 (India Standard Time) CCXSTART :: User profile updated. Current profile: {"AppProfile":{},"LegacyProfile":{},"AdditionalLegacyProfiles":{},"RelationshipProfile":{},"UserProfile":{}}-
+Mon Feb 20 2023 03:05:59 GMT+0530 (India Standard Time) CCXSTART :: analytics.highbeam: active-
+Mon Feb 20 2023 03:05:59 GMT+0530 (India Standard Time) CCXSTART :: analytics.ingest: (prod) active-
+Mon Feb 20 2023 03:05:59 GMT+0530 (India Standard Time) CCXSTART :: i18n.fetching: en_US-
+Mon Feb 20 2023 03:05:59 GMT+0530 (India Standard Time) CCXSTART :: Timeline: i18n.data Start               : 1380.56ms-
+Mon Feb 20 2023 03:05:59 GMT+0530 (India Standard Time) CCXSTART :: Timeline measure: JS code after host data       : 1386.07ms-
+Mon Feb 20 2023 03:05:59 GMT+0530 (India Standard Time) CCXSTART :: Timeline measure: App JS ready                  : 1386.74ms-
+Mon Feb 20 2023 03:05:59 GMT+0530 (India Standard Time) CCXSTART :: Timeline measure: i18n.data                     : 1436.08ms-
+Mon Feb 20 2023 03:05:59 GMT+0530 (India Standard Time) CCXSTART :: Timeline measure: total load time               : 1436.55ms-
+Mon Feb 20 2023 03:05:59 GMT+0530 (India Standard Time) CCXSTART :: [perf.report] -----------------------------------------------
+Mon Feb 20 2023 03:05:59 GMT+0530 (India Standard Time) CCXSTART :: [perf.measure] scripts loaded: 112 ms (global: 112 ms)-
+Mon Feb 20 2023 03:05:59 GMT+0530 (India Standard Time) CCXSTART :: [perf.measure] JS Init: 130 ms (global: 130 ms)-
+Mon Feb 20 2023 03:05:59 GMT+0530 (India Standard Time) CCXSTART :: [perf.measure] Dependencies: 159 ms (global: 159 ms)-
+Mon Feb 20 2023 03:05:59 GMT+0530 (India Standard Time) CCXSTART :: [perf.measure] host adapter: 238 ms (global: 238 ms)-
+Mon Feb 20 2023 03:05:59 GMT+0530 (India Standard Time) CCXSTART :: [perf.measure] document listeners: 238 ms (global: 238 ms)-
+Mon Feb 20 2023 03:05:59 GMT+0530 (India Standard Time) CCXSTART :: [perf.measure] app.data: 107 ms (global: 347 ms)-
+Mon Feb 20 2023 03:05:59 GMT+0530 (India Standard Time) CCXSTART :: [perf.measure] JS code after host data: 46 ms (global: 1386 ms)-
+Mon Feb 20 2023 03:05:59 GMT+0530 (India Standard Time) CCXSTART :: [perf.measure] App JS ready: 1387 ms (global: 1387 ms)-
+Mon Feb 20 2023 03:05:59 GMT+0530 (India Standard Time) CCXSTART :: [perf.measure] i18n.data: 56 ms (global: 1436 ms)-
+Mon Feb 20 2023 03:05:59 GMT+0530 (India Standard Time) CCXSTART :: [perf.measure] total load time: 97 ms (global: 1437 ms)-
+Mon Feb 20 2023 03:05:59 GMT+0530 (India Standard Time) CCXSTART :: Timeline: render Start                  : 1445.10ms-
+Mon Feb 20 2023 03:06:00 GMT+0530 (India Standard Time) CCXSTART :: NGL: Showing no chiclet.-
+Mon Feb 20 2023 03:06:00 GMT+0530 (India Standard Time) CCXSTART :: Timeline measure: render                        : 2107.90ms-
+Mon Feb 20 2023 03:06:00 GMT+0530 (India Standard Time) CCXSTART :: unable to get access token Error: ims.getAccessToken failed:: undefined-
+Mon Feb 20 2023 03:06:00 GMT+0530 (India Standard Time) CCXSTART :: Sending logged in user as-
+Mon Feb 20 2023 03:06:00 GMT+0530 (India Standard Time) CCXSTART :: Timeline measure: complete                      : 2150.59ms-
+Mon Feb 20 2023 03:06:00 GMT+0530 (India Standard Time) CCXSTART :: Timeline: learn.data Start              : 2162.67ms-
+Mon Feb 20 2023 03:06:00 GMT+0530 (India Standard Time) CCXSTART :: learn.data: Sending ccxprocess.TutorialRequest[1D57F6B5F08744ABB01FFD76444AFAD0] with {"params":{"productCode":"AEFT","productVersion":"17.5","productLanguage":"en_US","countryCode":"","ccxVersion":"2.16.0.8"},"analytics":{"env.fw.version":"2.16.0.8","env.fw.name":"CEP Learn Panel"},"version":1,"requestId":"1D57F6B5F08744ABB01FFD76444AFAD0"}-
+Mon Feb 20 2023 03:06:00 GMT+0530 (India Standard Time) CCXSTART :: Timeline: sophia.data1 Start            : 2171.94ms-
+Mon Feb 20 2023 03:06:00 GMT+0530 (India Standard Time) CCXSTART :: sophia.data: Sending ccxprocess.FirstMileRequest [B46CA895DDFD4F088513C7D8F22F0F23] with payload: {"params":{"productCode":"AEFT","productVersion":"17.5","productLanguage":"en_US","countryCode":"","ccxVersion":"2.16.0.8"},"analytics":{"env.fw.version":"2.16.0.8","env.fw.name":"CEP Home Panel"},"version":1,"urgent":true,"requestId":"B46CA895DDFD4F088513C7D8F22F0F23","force":{"type":"none"}}-
+Initialize logging-
+Mon Feb 20 2023 03:06:00 GMT+0530 (India Standard Time) CCXSTART :: Cleared proxy setttings-
+Mon Feb 20 2023 03:06:00 GMT+0530 (India Standard Time) CCXSTART :: host data {"hostID":"AEFT","appVersion":"17.5","platform":"win","userTrackingEnabled":true,"language":"en_US","countryCode":"","adobeID":"","adobeGUID":"","firstName":"","lastName":"","accountType":"","sessionGUID":"04b66a48-c26b-4075-8174-f7aa116649f7","displayMode":"welcome","secondsLeftInTrial":null,"appStartClockTime":1676842214,"accountStatus":"paid","dontShowAgain":true,"tabs":{"recentfile":{"type":"recentfile","label":"listview_recent_tab_label","listViewEnabled":true,"thumbnailViewEnabled":false,"list":[]},"ccfiles":{"type":"ccfiles","label":"listview_ccfiles_tab_label","listViewEnabled":true,"thumbnailViewEnabled":false,"list":[]}},"buttonInfo":{"create_button_newdocs":{"label":"New project","tip":"Click to create a new project.","shortcut":" "},"create_button_open":{"label":"Open project","tip":"Click to use the system's Open File dialog to select a file.","shortcut":" "}},"startVersion":"2.16.0.8"}-

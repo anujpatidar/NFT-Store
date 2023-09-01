@@ -1,0 +1,42 @@
+Sun Apr 23 17:40:43 2023: Starting Uninstallation
+Sun Apr 23 17:40:43 2023: Successfully obtained debug rights: 
+Sun Apr 23 17:40:43 2023: Found one process. Killing it.
+Sun Apr 23 17:40:43 2023: Terminating Process: 15316
+Sun Apr 23 17:40:43 2023: Terminating Process: 21848
+Sun Apr 23 17:40:43 2023: Terminating Process: 9332
+Sun Apr 23 17:40:43 2023: Killed. Looking for more.
+Sun Apr 23 17:40:43 2023: node.exe successfully deleted or does not exist.
+Sun Apr 23 17:40:43 2023: Send delete command for vulcan specifier
+Sun Apr 23 17:40:43 2023: The vulcan specifier location is:C:\Program Files (x86)\Common Files\Adobe\Vulcan\specifiers\cclibraries.xml
+Sun Apr 23 17:40:43 2023: Vulcan specifier deleted
+Sun Apr 23 17:40:43 2023: Done
+
+
+Fri May  5 21:10:27 2023: Starting Uninstallation
+Fri May  5 21:10:27 2023: Successfully obtained debug rights: 
+Fri May  5 21:10:27 2023: Found one process. Killing it.
+Fri May  5 21:10:27 2023: Terminating Process: 19084
+Fri May  5 21:10:27 2023: Terminating Process: 7768
+Fri May  5 21:10:27 2023: Terminating Process: 11524
+Fri May  5 21:10:27 2023: Killed. Looking for more.
+Fri May  5 21:10:27 2023: node.exe successfully deleted or does not exist.
+Fri May  5 21:10:27 2023: Send delete command for vulcan specifier
+Fri May  5 21:10:27 2023: The vulcan specifier location is:C:\Program Files (x86)\Common Files\Adobe\Vulcan\specifiers\cclibraries.xml
+Fri May  5 21:10:27 2023: Vulcan specifier deleted
+Fri May  5 21:10:27 2023: Done
+
+
+Thu Jun 15 16:31:16 2023: Starting Uninstallation
+Thu Jun 15 16:31:16 2023: Successfully obtained debug rights: 
+Thu Jun 15 16:31:16 2023: Found one process. Killing it.
+Thu Jun 15 16:31:16 2023: Terminating Process: 9544
+Thu Jun 15 16:31:16 2023: Terminating Process: 10060
+Thu Jun 15 16:31:16 2023: Terminating Process: 14820
+Thu Jun 15 16:31:16 2023: Killed. Looking for more.
+Thu Jun 15 16:31:17 2023: node.exe successfully deleted or does not exist.
+Thu Jun 15 16:31:17 2023: Send delete command for vulcan specifier
+Thu Jun 15 16:31:17 2023: The vulcan specifier location is:C:\Program Files (x86)\Common Files\Adobe\Vulcan\specifiers\cclibraries.xml
+Thu Jun 15 16:31:17 2023: Vulcan specifier deleted
+Thu Jun 15 16:31:17 2023: Done
+
+

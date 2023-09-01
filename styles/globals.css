@@ -1,0 +1,110 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap');
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+  body {
+    color: white;
+    background: black;
+  }
+}
+
+
+@media(max-width:768px) {
+  .medium {
+    grid-template-columns: 360px auto;
+  }
+}
+
+.footer {
+  grid-template-columns: 393px auto auto auto;
+}
+
+@layer components {
+  .title {
+    @apply text-white
+  }
+
+  .desc {
+    @apply text-[#ADB9C7]
+  }
+}
+
+.nav_links {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  padding-inline-start: 0;
+}
+
+.tx{
+  resize: none;
+  overflow: hidden;
+}
+
+.tx::-webkit-scrollbar { 
+  display: none; 
+}
+
+.profile {
+  background: linear-gradient(138.18deg, #216CFD -7.24%, #002ECF 105.61%);
+}
+
+.reveal-text,
+.reveal-text::after {
+  --delay: 0;
+  --duration: 5000ms;
+  --iterations: infinite;
+  animation-delay: var(--animation-delay, 5s);
+  animation-iteration-count: var(--iterations, 1);
+  animation-duration: var(--duration, 5000ms);
+  animation-fill-mode: both;
+  animation-timing-function: cubic-bezier(0.0, 0.0, 0.2, 1);
+}
+
+.reveal-text {
+  --delay: 0;
+  --duration: 5000ms;
+  --iterations: infinite;
+  --animation-delay: var(--delay, 0);
+  --animation-duration: var(--duration, 5000ms);
+  --animation-iterations: var(--iterations, 1);
+  font-size: 2vw;
+  font-family: "cinzel";
+  font-weight: 500;
+  animation-name: clip-text;
+  color: rgba(255, 255, 255, 6);
+
+}
+
+@keyframes clip-text {
+  from {
+    clip-path: inset(0 100% 0 0);
+  }
+
+  to {
+    clip-path: inset(0 0 0 0);
+  }
+}
