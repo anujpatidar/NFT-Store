@@ -37,8 +37,3 @@
 
 <img width="1600" alt="resell-1" src="https://github.com/psdartist88/NFT-Store/assets/82809623/63376b7c-8995-4823-b861-2ee01ee4666f">
 
-<img width="1600" alt="resell" src="https://user-images.githubusercontent.com/67114280/194313081-148f2c76-b6ab-48c2-88ae-eba7dbceda35.png">
-
-<img width="1600" alt="responsive" src="https://user-images.githubusercontent.com/67114280/194313135-5a3eb53a-6f25-4f46-bc0b-a2dddb68b510.png">
-
-<img width="1600" alt="responsive 3" src="https://user-images.githubusercontent.com/67114280/194313115-ba097809-5748-4dbf-ac5d-e4965acfeea9.png">
